@@ -1,0 +1,21 @@
+# Dependencies and generated application output
+/node_modules/
+/.next/
+/out/
+/coverage/
+/next-env.d.ts
+*.tsbuildinfo
+
+# Local environment files and deployment metadata
+.env*
+!.env.example
+/.vercel/
+/.netlify/
+
+# Logs and operating-system files
+*.log
+.DS_Store
+
+/.agent
+
+
